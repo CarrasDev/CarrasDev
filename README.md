@@ -4,7 +4,6 @@
 </div>
 
 
-
 ## 👨‍💻 Sobre mi
 
 Profesional con 16 años de experiencia en logística industrial, especializado en mejora continua y análisis de procesos. He crecido desde roles operativos al liderazgo de operaciones clave en expediciones, almacenes y suministro a planta, donde la precisión y eficiencia son esenciales.
@@ -30,20 +29,23 @@ Busco mi primera oportunidad profesional en el sector IT, donde pueda seguir apr
 - Patrones de diseño
 
 
-
 ## 📚 Proyectos destacados
 
 - 🎮 [Tetris en Python](https://github.com/CarrasDev/Tetris_Game)  
-  Juego clásico con enfoque didáctico, licencia educativa, documentación robusta y disclaimers legales.
+  El clásico Tetris implementado en Python haciendo uso de POO y la librería Pygame.
 
-- **Sección en desarrollo**
+- **⚠️ Sección en desarrollo**
 
 
 ## 🤝 Cómo colaborar
 
 Estoy abierto a feedback, propuestas de colaboración y revisión de código. Si te interesa podemos conectar.
 
+💼 [LinkedIn](https://www.linkedin.com/in/danielcarrascoluque/)
+📧 carrasdev@gmail.com
+
 
 ---
 
-Gracias por visitar mi perfil. ¡Seguimos aprendiendo!
+**¡Gracias por visitar mi perfil!
+¡Seguimos aprendiendo!** 🚀
