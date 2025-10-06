@@ -41,11 +41,11 @@ Busco mi primera oportunidad profesional en el sector IT, donde pueda seguir apr
 
 Estoy abierto a feedback, propuestas de colaboración y revisión de código. Si te interesa podemos conectar.
 
-💼 [LinkedIn](https://www.linkedin.com/in/danielcarrascoluque/)
+💼 [LinkedIn](https://www.linkedin.com/in/danielcarrascoluque/)<br>
 📧 carrasdev@gmail.com
 
 
 ---
 
-**¡Gracias por visitar mi perfil!
+**¡Gracias por visitar mi perfil!<br>
 ¡Seguimos aprendiendo!** 🚀
