@@ -31,7 +31,7 @@ Busco mi primera oportunidad profesional en el sector IT, donde pueda seguir apr
 
 ## 📚 Proyectos destacados
 
-**⚠️ Sección en desarrollo**<br>
+**⚠️ Sección en desarrollo...**<br>
 
 - 🎮 [Tetris en Python](https://github.com/CarrasDev/Tetris_Game)  
   El clásico Tetris implementado en Python haciendo uso de POO y la librería Pygame.
