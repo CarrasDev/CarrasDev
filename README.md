@@ -5,7 +5,7 @@
 
 
 
-### 👨‍💻 Sobre mi
+## 👨‍💻 Sobre mi
 
 Profesional con 16 años de experiencia en logística industrial, especializado en mejora continua y análisis de procesos. He crecido desde roles operativos al liderazgo de operaciones clave en expediciones, almacenes y suministro a planta, donde la precisión y eficiencia son esenciales.
 
@@ -17,7 +17,7 @@ Mi propósito es unir el conocimiento profundo de los procesos industriales con 
 
 Busco mi primera oportunidad profesional en el sector IT, donde pueda seguir aprendiendo, aportar soluciones fiables y crecer como desarrollador. Me interesan especialmente los proyectos que mejoran la productividad, automatizan procesos o permiten colaborar en entornos técnicos con impacto real.
 
----
+
 
 ## 🛠️ Tecnologías y Metodologías
 
@@ -29,7 +29,7 @@ Busco mi primera oportunidad profesional en el sector IT, donde pueda seguir apr
 - Diagramas UML
 - Patrones de diseño
 
----
+
 
 ## 📚 Proyectos destacados
 
@@ -37,7 +37,7 @@ Busco mi primera oportunidad profesional en el sector IT, donde pueda seguir apr
   Juego clásico con enfoque didáctico, licencia educativa, documentación robusta y disclaimers legales.
 
 - **Sección en desarrollo**
----
+
 
 ## 🤝 Cómo colaborar
 
