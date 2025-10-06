@@ -1,6 +1,6 @@
 <div align="center">
 <h1 aling="center">Hola, soy Daniel Carrasco 👋<h1>
-<img src="assets/header.jpg" width="1000"/>
+<img src="assets/header.png" width="1000"/>
 </div>
 
 
@@ -36,6 +36,7 @@ Busco mi primera oportunidad profesional en el sector IT, donde pueda seguir apr
 - 🎮 [Tetris en Python](https://github.com/CarrasDev/Tetris_Game)  
   Juego clásico con enfoque didáctico, licencia educativa, documentación robusta y disclaimers legales.
 
+- **Sección en desarrollo**
 ---
 
 ## 🤝 Cómo colaborar
