@@ -31,7 +31,7 @@ Busco mi primera oportunidad profesional en el sector IT, donde pueda seguir apr
 
 ## 📚 Proyectos destacados
 
-**⚠️ Sección en desarrollo...**<br>
+**⚠️ Sección en desarrollo...** Pendiente de poner al día algunos repositorios Privados<br>
 
 - 🎮 [Tetris en Python](https://github.com/CarrasDev/Tetris_Game)  
   El clásico Tetris implementado en Python haciendo uso de POO y la librería Pygame.
@@ -42,7 +42,7 @@ Busco mi primera oportunidad profesional en el sector IT, donde pueda seguir apr
 
 - Integración de musica de fondo y efectos de sonido en el Tetris. (No prioritario)
 - Formándome en IA aplicada al desarrollo.
-- Formándome en FastAPI y desarrollo backend con Python.(En pausa por los proyectos educativos JE-UOC)
+- Formándome en FastAPI y desarrollo backend con Python. (En pausa por los proyectos educativos JE-UOC)
 - Proyecto educativo en JE-UOC para la gestión de reservas en un Gimnasio (GenteFIT) usando tecnología .NET.
 - Proyecto educativo en JE-UOC para la integración de IoT en una SmartCity.<br>
 - Próximo proyecto personal: Aplicación de escritorio para la gestión de notas con análisis de texto y etiquetas haciendo uso de FastAPI para integrar IA en el backend.
