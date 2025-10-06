@@ -23,9 +23,10 @@ Busco mi primera oportunidad profesional en el sector IT, donde pueda seguir apr
 
 - Python · Java · C · SQL
 - MySQL · JPA · Hibernate
-- UML · XML · HTML
+- XML · HTML
 - JavaFX · PyGame
 - Git · GitHub
+- Diagramas UML
 - Patrones de diseño
 
 ---
@@ -45,10 +46,3 @@ Estoy abierto a feedback, propuestas de colaboración y revisión de código. Si
 ---
 
 Gracias por visitar mi perfil. ¡Seguimos aprendiendo!
-
-
-
-Hacer comit 
-
-git remote add origin https://github.com/CarrasDev/CarrasDev.git
-git push -u origin main
