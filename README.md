@@ -37,6 +37,8 @@ Busco mi primera oportunidad profesional en el sector IT, donde pueda seguir apr
   El clásico Tetris implementado en Python haciendo uso de POO y la librería Pygame.
 - 📊 [Gestor de tienda Online](https://github.com/CarrasDev/Online_Store)
   Aplicación de escritorio en Java para la gestión de productos, clientes y pedidos de una tienda online. Utiliza JavaFX para la interfaz gráfica y MySQL para el almacenamiento de datos.
+- 📡 [DNS OptimizerXML](https://github.com/CarrasDev/DNS_OptimizerXML)
+  Herramienta de terminal realizada en C para optimizar la configuración de DNS en entornos empresariales. Permite analizar el rendimiento de las DNS de un equipo, cambiar DNS si es necesario y generar un archivo XML con la configuración establecida.
 
 ## 🚀 En que estoy trabajando actualmente
 
