@@ -46,7 +46,7 @@ Busco mi primera oportunidad profesional en el sector IT, donde pueda seguir apr
 - Formándome en IA aplicada al desarrollo.
 - Formándome en FastAPI y desarrollo backend con Python. (En pausa por los proyectos educativos JE-UOC)
 - Proyecto educativo en JE-UOC para la gestión de reservas en un Gimnasio (GenteFIT) usando tecnología .NET.
-- Proyecto educativo en JE-UOC para la integración de IoT en una SmartCity.<br>
+- Proyecto educativo en JE-UOC para la integración de IoT en una SmartHome.<br>
 - Próximo proyecto personal: Aplicación de escritorio para la gestión de notas con análisis de texto y etiquetas haciendo uso de FastAPI para integrar IA en el backend.
 
 
