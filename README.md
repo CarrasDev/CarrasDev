@@ -42,7 +42,7 @@ Busco mi primera oportunidad profesional en el sector IT, donde pueda seguir apr
 
 ## 🚀 En que estoy trabajando actualmente
 
-- Integración de musica de fondo y efectos de sonido en el Tetris. (No prioritario)
+- Integración de musica de fondo y efectos de sonido en Tetris en Python. (No prioritario)
 - Formándome en IA aplicada al desarrollo.
 - Formándome en FastAPI y desarrollo backend con Python. (En pausa por los proyectos educativos JE-UOC)
 - Proyecto educativo en JE-UOC para la gestión de reservas en un Gimnasio (GenteFIT) usando tecnología .NET.
