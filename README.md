@@ -28,7 +28,7 @@ Mi meta es encontrar un entorno donde pueda aportar mi bagaje en optimización d
 - **Lenguajes & Frameworks:** C# · .NET · SQL (PL/SQL) · Java · Python · C · AL · C/SIDE
 - **Bases de Datos & ORMs:** SQL Server · MySQL · JPA · Hibernate
 - **Entornos & Herramientas:** Git · GitHub · Docker · Azure (En preparación) · Linux
-- **Metodologías & Diseño:** Metodologías Lean · Scrum / Ágil · Diagramas UML · Patrones de diseño
+- **Metodologías & Diseño:** Metodologías Lean · Scrum / Ágil · Diagramas UML · Patrones de diseño · Clean Architecture
 
 
 
