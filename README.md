@@ -5,7 +5,7 @@
 
 
 
-## 👨‍💻 Sobre mi
+## 👨‍💻 Sobre mí
 
 **Desarrollador de Software en pleno crecimiento, enfocado en el ecosistema Backend (.NET / C#)** e integración de sistemas. Mi perfil combina una mentalidad analítica y estructurada con una madurez profesional diferencial: tras **15 años optimizando procesos logísticos globales** bajo metodologías Lean en el sector automotriz, decidí pivotar mi carrera hacia el desarrollo tecnológico. 
 
@@ -46,7 +46,7 @@ Mi meta es encontrar un entorno donde pueda aportar mi bagaje en optimización d
 ## 🚀 En qué estoy trabajando actualmente
 
 - Actualmente estoy profundizando en **.NET Core y C#**, explorando la creación de **APIs RESTful** y la integración con bases de datos SQL Server. Estoy desarrollando un proyecto personal que consiste en una **API para la gestión de un almacén**, donde aplico principios de Clean Code, pruebas unitarias y patrones de diseño para mejorar la mantenibilidad y escalabilidad del código. Mi objetivo es dominar la arquitectura de software y las mejores prácticas en el desarrollo backend, con miras a contribuir de manera efectiva en proyectos empresariales.
-- Preparandome para obtener la **certificación de Microsoft Certified: Azure Fundamentals AZ-900**, con el objetivo de fortalecer mis conocimientos en servicios en la nube y su integración con aplicaciones .NET.
+- Preparándome para obtener la **certificación de Microsoft Certified: Azure Fundamentals AZ-900**, con el objetivo de fortalecer mis conocimientos en servicios en la nube y su integración con aplicaciones .NET.
 
 ## 🤝 Cómo colaborar
 
