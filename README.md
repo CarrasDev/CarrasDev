@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre mi
 
-Soy un **Desarrollador de Software en pleno crecimiento, enfocado en el ecosistema Backend (.NET / C#)** e integración de sistemas. Mi perfil combina una mentalidad analítica y estructurada con una madurez profesional diferencial: tras **15 años optimizando procesos logísticos globales** bajo metodologías Lean en el sector automotriz, decidí pivotar mi carrera hacia el desarrollo tecnológico. 
+**Desarrollador de Software en pleno crecimiento, enfocado en el ecosistema Backend (.NET / C#)** e integración de sistemas. Mi perfil combina una mentalidad analítica y estructurada con una madurez profesional diferencial: tras **15 años optimizando procesos logísticos globales** bajo metodologías Lean en el sector automotriz, decidí pivotar mi carrera hacia el desarrollo tecnológico. 
 
 Esta hibridación me aporta una gran comprensión de las arquitecturas de negocio, dominio de flujos de datos complejos y la capacidad de entender rápidamente las necesidades reales de una empresa.
 
