@@ -25,7 +25,7 @@ Mi meta es encontrar un entorno donde pueda aportar mi bagaje en optimización d
 
 ## 🛠️ Tecnologías y Metodologías
 
-- **Lenguajes & Frameworks:** C# · .NET · SQL (PL/SQL) · Java · Python · C · AL · C/SIDE
+- **Lenguajes & Frameworks:** C# · .NET · ASP.NET · SQL (PL/SQL) · Java · Python · C · AL · C/SIDE
 - **Bases de Datos & ORMs:** SQL Server · MySQL · JPA · Hibernate
 - **Entornos & Herramientas:** Git · GitHub · Docker · Azure (En preparación) · Linux
 - **Metodologías & Diseño:** Metodologías Lean · Scrum / Ágil · Diagramas UML · Patrones de diseño · Clean Architecture
@@ -36,17 +36,16 @@ Mi meta es encontrar un entorno donde pueda aportar mi bagaje en optimización d
 
 **⚠️ Sección en desarrollo...** Actualizando y abriendo repositorios privados...<br>
 
-- 🎮 [Tetris en Python](https://github.com/CarrasDev/Tetris_Game)<br>
-  El clásico Tetris implementado en Python haciendo uso de POO y la librería Pygame.
-- 📊 [Gestor de tienda Online](https://github.com/CarrasDev/Online_Store)<br>
-  Aplicación de escritorio en Java para la gestión de productos, clientes y pedidos de una tienda online. Utiliza JavaFX para la interfaz gráfica y MySQL para el almacenamiento de datos.
 - 📡 [DotNetProject - GenteFit](https://github.com/CarrasDev/DotNetProject)<br>
   Aplicación de escritorio en C# y .NET para la gestión de reservas de salas de entrenamiento en un gimnasio. Implementa un sistema de autenticación, gestión de usuarios y reservas, y utiliza SQL Server para la persistencia de datos. Cuenta con un módulo de integración con Odoo (ERP), desarrollado en Python, para la transferencia de datos entre ambos sistemas.
+- 📊 [Gestor de tienda Online](https://github.com/CarrasDev/Online_Store)<br>
+  Aplicación de escritorio en Java para la gestión de productos, clientes y pedidos de una tienda online. Utiliza JavaFX para la interfaz gráfica y MySQL para el almacenamiento de datos.
+- 🎮 [Tetris en Python](https://github.com/CarrasDev/Tetris_Game)<br>
+  El clásico Tetris implementado en Python haciendo uso de POO y la librería Pygame.
 
 ## 🚀 En qué estoy trabajando actualmente
 
-- Actualmente estoy profundizando en **.NET Core y C#**, explorando la creación de **APIs RESTful** y la integración con bases de datos SQL Server. Estoy desarrollando un proyecto personal que consiste en una **API para la gestión de un almacén**, donde aplico principios de Clean Code, pruebas unitarias y patrones de diseño para mejorar la mantenibilidad y escalabilidad del código. Mi objetivo es dominar la arquitectura de software y las mejores prácticas en el desarrollo backend, con miras a contribuir de manera efectiva en proyectos empresariales.
-- Preparandome para obtener la **certificación de Microsoft Certified: Azure Fundamentals AZ-900**, con el objetivo de fortalecer mis conocimientos en servicios en la nube y su integración con aplicaciones .NET.
+- Actualmente estoy profundizando en **.NET y C#**, explorando la creación de **APIs RESTful** y la integración con bases de datos SQL Server. Estoy desarrollando un proyecto personal donde aplico principios de Clean Code, pruebas unitarias y patrones de diseño para mejorar la mantenibilidad y escalabilidad del código. Mi objetivo es dominar la arquitectura de software y las mejores prácticas en el desarrollo backend, con miras a contribuir de manera efectiva en proyectos empresariales.
 
 ## 🤝 Cómo colaborar
 
