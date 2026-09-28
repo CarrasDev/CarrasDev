@@ -49,7 +49,7 @@ Mi meta es encontrar un entorno donde pueda aportar mi bagaje en optimización d
 
 ## 🤝 Cómo colaborar
 
-Estoy abierto a feedback, propuestas de colaboración y revisión de código. Si te interesa podemos conectar.
+Estoy abierto a feedback, propuestas de colaboración y revisión de código. Contactame!!
 
 💼 [LinkedIn](https://www.linkedin.com/in/danielcarrascoluque/)<br>
 📡 [Website personal](https://www.carrasdev.com/)<br>
